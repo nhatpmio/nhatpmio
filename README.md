@@ -4,11 +4,11 @@
 <tr>
 <td width="50%" valign="top">
 
-## 🔥 Yo! I'm Minh Nhat - nhatpm.io
+## 🛠 Yo! I'm Minh Nhat - nhatpm.io
 
 I'm a Software Engineer with a passion for building robust backend systems and crafting dynamic, user-friendly frontends. I'm always eager to learn new technologies and apply them to solve real-world problems.
 
-### 🔥 What I'm up to:
+### 🛠 What I'm up to:
 -  Currently working on improving my deployment pipelines with **Docker**
 -  Always learning new patterns in **React** and optimizing database queries
 -  Ask me about **Java, Spring Boot, Python,** or anything web development!
@@ -16,14 +16,14 @@ I'm a Software Engineer with a passion for building robust backend systems and c
 
 ---
 
-### 🔥 GitHub Stats
+### 🛠 GitHub Stats
 
-<img src="https://streak-stats.demolab.com/?user=nhatpmio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![nhatpmio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhatpmio&show_icons=true&theme=dark)
 
 </td>
 <td width="50%" valign="top">
 
-## 🔥 Get in touch with me
+## 🛠 Get in touch with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nhatpmio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -40,9 +40,9 @@ I'm a Software Engineer with a passion for building robust backend systems and c
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 Most Used Languages
+### 🛠 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatpmio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatpmio&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </td>
 <td width="50%" valign="top">
@@ -60,9 +60,9 @@ I'm a Software Engineer with a passion for building robust backend systems and c
 
 ---
 
-### 🔥 Activity Graph
+### 🛠 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nhatpmio&theme=tokyo-night&hide_border=true)](https://github.com/nhatpmio)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nhatpmio&theme=github-compact&hide_border=true)](https://github.com/nhatpmio)
 
 </td>
 </tr>
