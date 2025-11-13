@@ -4,7 +4,7 @@
 <tr>
 <td width="50%" valign="top">
 
-## 🛠 Yo! I'm Minh Nhat - nhatpm.io
+### 🛠 Yo! I'm Minh Nhat - nhatpm.io
 
 I'm a Software Engineer with a passion for building robust backend systems and crafting dynamic, user-friendly frontends. I'm always eager to learn new technologies and apply them to solve real-world problems.
 
@@ -23,7 +23,7 @@ I'm a Software Engineer with a passion for building robust backend systems and c
 </td>
 <td width="50%" valign="top">
 
-## 🛠 Get in touch with me
+### 🛠 Get in touch with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nhatpmio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -34,7 +34,7 @@ I'm a Software Engineer with a passion for building robust backend systems and c
 
 ---
 
-## 🛠️ My Tech Stack
+### 🛠️ My Tech Stack
 
 <table>
 <tr>
@@ -72,6 +72,7 @@ I'm a Software Engineer with a passion for building robust backend systems and c
 
 <div align="center">
 
-**Thanks for visiting! Feel free to reach out if you want to collaborate on any project! 🔥**
+© 2025 Pham Minh Nhat
+
 
 </div>
